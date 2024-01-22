@@ -1,0 +1,4 @@
+name: BuyStatus
+version: '${project.version}'
+main: net.isksss.mc.buystatus.BuyStatus
+api-version: '1.20'
